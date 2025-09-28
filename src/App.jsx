@@ -57,9 +57,6 @@ function App() {
 
   return (
     <div className='container mt-3'>
-      <span className='display-4'>
-        {username}
-      </span>
       <div className='row g-1 my-3'>
         <div className='col-12'>
           <input type='text'
